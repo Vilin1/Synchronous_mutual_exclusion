@@ -1,1 +1,3 @@
 # Synchronous_mutual_exclusion
+进程同步问题
+读者写者问题
